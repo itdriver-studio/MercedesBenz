@@ -22,21 +22,7 @@ a {
     color: inherit;
 }
 
-button{
+button {
     background-color: transparent;
-    border:none;
-}
-.container {
-    max-width: 1220px;
-    margin: 0 auto;
-    padding: 0 10px;
-}
-
-.header {}
-
-.header__top {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    min-height: 100px;
+    border: none;
 }
